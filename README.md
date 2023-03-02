@@ -12,5 +12,5 @@ The division values are based on the lines CRS units of measure and not the CRS 
 This tool in an ArcGIS Pro implementation of the ArcGIS Desktop tool available here:   https://github.com/LummiGIS/Create_Points_Along_A_Line_Feature_Class
 
 
-https://github.com/LummiGIS/Create-Points-Along-Line-ArcGISPro/blob/main/img/divideline.png|alt=octocat
+https://github.com/LummiGIS/Create-Points-Along-Line-ArcGISPro/blob/main/img/divideline.png
 
