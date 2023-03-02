@@ -8,3 +8,6 @@ This geoprocessing tool takes a line feature class in a Cartesian coordinate ref
 This tool does not work with multi-part geometries, or geographically projected data. It was tested using WaSPN and UTM 10N projections.
 The division values are based on the lines CRS units of measure and not the CRS of the data frame.
 
+
+This tool in an ArcGIS Pro implementation of the ArcGIS Desktop tool available here:   https://github.com/LummiGIS/Create_Points_Along_A_Line_Feature_Class
+
